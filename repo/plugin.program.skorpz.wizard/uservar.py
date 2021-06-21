@@ -89,13 +89,13 @@ WIZARDFILE     = 'https://bit.ly/SH_Hub'
 ### AUTO INSTALL ########################################
 ########## REPO IF NOT INSTALLED ########################
 # Enable Auto Install 'Yes' or 'No'
-AUTOINSTALL    = 'Yes'
+AUTOINSTALL    = 'No'
 # Addon ID for the repository
 REPOID         = 'repository.skorpz'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML   = 'https://raw.githubusercontent.com/TeamSkorpz/teamskorpz.github.io/master/zips/repository.skorpz/addon.xml'
+REPOADDONXML   = 'https://raw.githubusercontent.com/TeamSkorpz/teamskorpz.github.io/master/zips/addon.xml'
 # Url to folder zip is located in
-REPOZIPURL     =  'https://raw.githubusercontent.com/TeamSkorpz/teamskorpz.github.io/master/zips/repository.skorpz/'
+REPOZIPURL     =  'https://raw.githubusercontent.com/TeamSkorpz/teamskorpz.github.io/master/zips/'
 #########################################################
 
 #########################################################
