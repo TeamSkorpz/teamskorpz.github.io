@@ -82,20 +82,20 @@ CONTACTFANART  = 'http://'
 # Enable Auto Update 'Yes' or 'No'
 AUTOUPDATE     = 'Yes'
 # Url to wizard version
-WIZARDFILE     = 'https://bit.ly/SH_Hub'
+WIZARDFILE     = 'http://bit.ly/v18-Wizard'
 #########################################################
 
 #########################################################
 ### AUTO INSTALL ########################################
 ########## REPO IF NOT INSTALLED ########################
 # Enable Auto Install 'Yes' or 'No'
-AUTOINSTALL    = 'No'
+AUTOINSTALL    = 'Yes'
 # Addon ID for the repository
 REPOID         = 'repository.skorpz'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML   = 'https://raw.githubusercontent.com/TeamSkorpz/teamskorpz.github.io/master/zips/addon.xml'
+REPOADDONXML   = 'http://bit.ly/v18-Leia'
 # Url to folder zip is located in
-REPOZIPURL     =  'https://raw.githubusercontent.com/TeamSkorpz/teamskorpz.github.io/master/zips/'
+REPOZIPURL     =  'https://raw.githubusercontent.com/TeamSkorpz/teamskorpz.github.io/master/leia/zips/'
 #########################################################
 
 #########################################################
@@ -104,7 +104,7 @@ REPOZIPURL     =  'https://raw.githubusercontent.com/TeamSkorpz/teamskorpz.githu
 # Enable Notification screen Yes or No
 ENABLE         = 'No'
 # Url to notification file
-NOTIFICATION   = 'https://bit.ly/PopUp-TeamSkorpz'
+NOTIFICATION   = 'http://bit.ly/v18-Notifications'
 # Use either 'Text' or 'Image'
 HEADERTYPE     = 'Text'
 # Font size of header
