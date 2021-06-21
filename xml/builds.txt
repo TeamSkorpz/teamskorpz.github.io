@@ -1,6 +1,6 @@
 id="plugin.program.skorpz.wizard"
 version="0.2"
-zip="url.to.wizard"
+zip="http://bit.ly/v18-Wizard-Txt"
 
 name="Bingie"
 version="1.0"
