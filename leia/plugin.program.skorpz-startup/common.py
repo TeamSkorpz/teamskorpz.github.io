@@ -160,7 +160,7 @@ class MyWindow(xbmcgui.WindowDialog): #xbmcgui.Window): ##xbmcgui.Window
 		l2=L+W-spacing1-w2; t2=T+H-h2-spacing1; 
 		l1=L+W-spacing1-w2-spacing1-w1; t1=T+H-h1-spacing1; 
 		self.buttonDismiss=xbmcgui.ControlButton(l1,t1,w1,h1,"Dismiss",textColor="0xFF000000",focusedColor="0xFF000000",alignment=2,focusTexture=focus,noFocusTexture=nofocus); 
-		self.buttonRemindMe=xbmcgui.ControlButton(l2,t2,w2,h2,"Remind Later",textColor="0xFF000000",focusedColor="0xFF000000",alignment=2,focusTexture=focus,noFocusTexture=nofocus); 
+		self.buttonRemindMe=xbmcgui.ControlButton(l2,t2,w2,h2,"Hide",textColor="0xFF000000",focusedColor="0xFF000000",alignment=2,focusTexture=focus,noFocusTexture=nofocus); 
 		#self.OlaySplash
 		for z in [self.BG,self.ImgMessage,self.TxtMessage,self.iLogo,self.buttonRemindMe,self.buttonDismiss]: self.addControl(z); 
 		#for z in [self.BG,self.ImgMessage,self.TxtMessage,self.OlayBrdr,self.buttonRemindMe,self.buttonDismiss]: self.addControl(z); 

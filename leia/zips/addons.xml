@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
 <addon id="plugin.program.skorpz-startup"
-       version="4.20"
+       version="0.2"
        name="[COLOR blue]-[/COLOR] Skorpz's Notifications [COLOR yellow]-[/COLOR]"
 	   provider-name="[COLOR purple]SKO[/COLOR][COLOR blue]RPZ[/COLOR]">
   <requires>
@@ -23,6 +23,11 @@
   	<website>https://</website>
   	<source></source>
   	<email></email>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+
   </extension>
 </addon>
 
