@@ -7,7 +7,7 @@ ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
 ADDONTITLE     = '[COLOR blue]-[/COLOR] [B]Skorpzs Wizard[/B] [COLOR yellow]-[/COLOR]'
 EXCLUDES       = [ADDON_ID, 'repository.skorpz', 'plugin.program.skorpz.wizard']
 # Text File with build info in it.
-BUILDFILE      = 'https://bit.ly/SH_Hub'
+BUILDFILE      = 'http://bit.ly/v18-Wizard'
 # How often you would list it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK    = 0
