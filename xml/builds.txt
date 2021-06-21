@@ -1,5 +1,5 @@
-id="plugin.program.openwizard"
-version="1.0.0"
+id="plugin.program.skorpz.wizard"
+version="0.2"
 zip="url.to.wizard"
 
 name="Bingie"
