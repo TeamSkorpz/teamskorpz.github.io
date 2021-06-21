@@ -53,8 +53,8 @@ SPACER         = '='
 
 # You can edit these however you want, just make sure that you have a %s in each of the
 # THEME's so it grabs the text from the menu item
-COLOR1         = 'red'
-COLOR2         = 'white'
+COLOR1         = 'white'
+COLOR2         = 'azure'
 # Primary menu items   / %s is the menu item and is required
 THEME1         = '[COLOR '+COLOR1+'][B]([COLOR '+COLOR2+']Skorpzy[/COLOR])[/B][/COLOR] [COLOR '+COLOR2+']%s[/COLOR]'
 # Build Names          / %s is the menu item and is required

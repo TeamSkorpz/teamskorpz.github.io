@@ -1,4 +1,12 @@
-1
+2
 |||
 
-Your message here
+What's New & Improved!
+   
+   ~ Bingie v1.0
+     # Bingie skin has been Redesign.
+	 # My Accounts is now on the left menu.
+	 # Skorpz's Wizard + Repository has been updated.
+	 # Sports tab, has been Fix/Improved.
+	
+Updated: 21/06/2021
