@@ -5,9 +5,9 @@ import os, xbmc, xbmcaddon
 #########################################################
 ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
 ADDONTITLE     = '[COLOR blue]-[/COLOR] [B]Skorpzs Wizard[/B] [COLOR yellow]-[/COLOR]'
-EXCLUDES       = [ADDON_ID, 'repository.skorpz', 'plugin.program.skorpz.wizard']
+EXCLUDES       = [ADDON_ID, 'repository.skorpz.repo', 'plugin.program.skorpz.wizard']
 # Text File with build info in it.
-BUILDFILE      = 'http://bit.ly/v18-Wizard'
+BUILDFILE      = 'https://raw.githubusercontent.com/TeamSkorpz/teamskorpz.github.io/master/xml/builds.txt'
 # How often you would list it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK    = 0
@@ -82,7 +82,7 @@ CONTACTFANART  = 'http://'
 # Enable Auto Update 'Yes' or 'No'
 AUTOUPDATE     = 'Yes'
 # Url to wizard version
-WIZARDFILE     = 'http://bit.ly/v18-Wizard'
+WIZARDFILE     = 'https://raw.githubusercontent.com/TeamSkorpz/teamskorpz.github.io/master/xml/builds.txt'
 #########################################################
 
 #########################################################

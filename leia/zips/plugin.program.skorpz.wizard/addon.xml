@@ -5,7 +5,7 @@
 
 <addon id="plugin.program.skorpz.wizard" 
        name="[COLOR blue]-[/COLOR] Skorpz's Wizard [COLOR yellow]-[/COLOR]" 
-	   version="0.2" 
+	   version="0.3" 
 	   provider-name="[COLOR purple]SKO[/COLOR][COLOR blue]RPZ[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>

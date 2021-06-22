@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.program.skorpz-startup" 
-       version="0.2"
+       version="0.3"
        name="[COLOR blue]-[/COLOR] Skorpz's Notifications [COLOR yellow]-[/COLOR]"   
 	   provider-name="[COLOR purple]SKO[/COLOR][COLOR blue]RPZ[/COLOR]">
   <requires>
@@ -13,7 +13,7 @@
   <extension point="xbmc.service" library="service.py" start="startup">
   </extension>
   <extension point="xbmc.addon.metadata">
-  	<summary>BingieTV/Skorpz NEWS</summary>
+  	<summary>Skorpz NEWS</summary>
   	<description>Receive Important Notifications, news and updates from SkorpzTV including changes/available updates.</description>
   	<disclaimer>I take no responsibility for any problems this plugin might in any way, form, shape or size cause.</disclaimer>
   	<language>en</language>
