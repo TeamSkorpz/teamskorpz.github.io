@@ -3,7 +3,7 @@ version="0.2"
 zip="http://bit.ly/v18-Wizard-Txt"
 
 name="Bingie"
-version="1.0"
+version="1.1"
 url="http://bit.ly/v18-Build"
 minor="http://"
 gui="http://"
