@@ -19,7 +19,7 @@ description="A short description of the build."
 
 name="Bingie - Seren - Test"
 version="1.1"
-url="http://bit.ly/v18-Build"
+url="https://archive.org/download/gen-2/gen-2.zip"
 minor="http://"
 gui="http://"
 kodi="18.9"
