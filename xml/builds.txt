@@ -17,7 +17,7 @@ info="http://teamskorpz.github.io"
 description="A short description of the build."
 
 name="Bingie - Seren"
-version="0.0.1"
+version="0.0.2"
 url="https://archive.org/download/gen-2/gen-2.zip"
 minor="http://"
 gui="http://"
